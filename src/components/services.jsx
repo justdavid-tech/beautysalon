@@ -39,7 +39,7 @@ const services = [
 
 const Services = () => {
   return (
-    <section id="services" className="py-20 bg-white text-gray-800">
+    <section className="py-20 bg-white text-gray-800">
       <div className="max-w-6xl mx-auto px-6 md:px-12 text-center">
         <h2 className="text-3xl md:text-4xl font-bold mb-4">
           Our <span className="text-pink-500">Signature Services</span>

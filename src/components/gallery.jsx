@@ -6,7 +6,7 @@ import Masonry from "react-masonry-css";
 import braids from "../assets/images/braids-gallery.jpg";
 import makeup from "../assets/images/makeup-gallery.jpg";
 import hairdye from "../assets/images/hairdye-gallery.jpg";
-import manicure from "../assets/images/manicure-gallery.jpg";
+import manicure from "../assets/images/manicure.jpeg";
 import nail from "../assets/images/nail-gallery.jpg";
 import nails from "../assets/images/nails-gallery.jpg";
 import wigInstall from "../assets/images/wiginstallation-gallery.jpg";
